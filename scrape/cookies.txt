@@ -1,0 +1,19 @@
+# Cookies for domains related to skyscanner.net.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt http://www.skyscanner.net/flights-from/lond/130621/cheapest-flights-from-london-in-june-2013.html?di=1
+#
+www.skyscanner.net	FALSE	/	FALSE	0	ASP.NET_SessionId	j7d3quixg
+www.skyscanner.net	FALSE	/	FALSE	1397381042	firstvisit	overlay:::show
+www.skyscanner.net	FALSE	/	FALSE	1523611442	preferences	e3b166076fa348b6bdabdc59fa7d1960
+www.skyscanner.net	FALSE	/	FALSE	1428917042	acq	9c2660cf-38ad-4a2f-9dcc-be78cf387b13|9c2660cf-38ad-4a2f-9dcc-be78cf387b13
+www.skyscanner.net	FALSE	/	FALSE	0	ga_track	inp_type:::1
+www.skyscanner.net	FALSE	/	FALSE	0	X-Mapping-elhhpiln	05C768DACE31FAF32C8273532E79CAD1
+www.skyscanner.net	FALSE	/	FALSE	0	X-Mapping-rrsqbjcb	06a13f0a788e803fcc56e78802891a26
+www.skyscanner.net	FALSE	/	FALSE	0	settings	acql:::true&iF:::false&enSort:::false&dvflt:::&wv:::true&anc0:::false&anc1:::false
+www.skyscanner.net	FALSE	/	FALSE	1375826699.751304	ssab	DisplaySearchControlDropDownControls:::B&SkyscannerIsFreeMessage:::A&BookingPanelDisplay:::B&CompareUnits:::A&RedirectPage:::A&MBPPrototype:::B&DayViewLogos:::A&en_FirstVisitOverlay:::A&da-DK_FirstVisitOverlay:::A&ja-JP_FirstVisitOverlay:::A&fi-FI_BookButtonTextBP:::A&it-IT_BookButtonTextBP:::A&ja-JP_BookButtonTextBP:::A&ko-KR_BookButtonTextBP:::A&nl-NL_BookButtonTextBP:::A&pl-PL_BookButtonTextBP:::A&ru-RU_BookButtonTextBP:::A&th-TH_BookButtonTextBP:::A&tl-PH_BookButtonTextBP:::A&tr-TR_BookButtonTextBP:::A&en_BookButtonTextBP:::A&da-DK_BookButtonTextBP:::A&de-DE_BookButtonTextBP:::A&es-ES_BookButtonTextBP:::A&fr-FR_BookButtonTextBP:::A&id-ID_BookButtonTextBP:::A&no-NO_BookButtonTextBP:::A&pt-PT_BookButtonTextBP:::A&pt-BR_BookButtonTextBP:::A&sv-SE_BookButtonTextBP:::A&GdsCostSavingForcingBP:::A&ro-RO_BookButtonTextBP:::A
+.skyscanner.net	TRUE	/	FALSE	1431122700	_ga	1.2.36305036.1365845045
+.skyscanner.net	TRUE	/	FALSE	1431122700	__utma	120441610.36305036.1365845045.1368046659.1368049274.3
+.skyscanner.net	TRUE	/	FALSE	1368052500	__utmb	120441610.24.9.1368050700152
+.skyscanner.net	TRUE	/	FALSE	0	__utmc	120441610
+.skyscanner.net	TRUE	/	FALSE	1383818700	__utmz	120441610.1365845045.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+www.skyscanner.net	FALSE	/	FALSE	1368914700.371084	scanner	currency:::gbp&lang:::en&rtn:::false&adults:::1&children:::0&infants:::0&cabinclass:::Economy&charttype:::0&from:::LOND&fromCy:::UK&toCy:::DE&oym:::1306&oday:::21&iym:::1306&iday:::21&usrplace:::UK&preferDirects:::true&to:::DE
