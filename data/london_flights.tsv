@@ -1,0 +1,554 @@
+lond	London	Dubai	DXB	317	True	Royal Brunei , British Airways, Emirates, Virgin Atlantic
+lond	London	Dubai	DXB	195	False	Pegasus Airlines, British Airways, Emirates, Virgin Atlantic
+lond	London	Dubai Bus Station	XNB	670	False	Etihad Airways
+lond	London	Kabul	KBL	417	False	Turkish Airlines, Etihad Airways, Air India, PIA
+lond	London	Saint John's	ANU	1231	True	British Airways, Virgin Atlantic
+lond	London	Tirana	TIA	112	True	belleair, British Airways
+lond	London	Yerevan	EVN	260	False	Belavia, KLM, Air France, Alitalia
+lond	London	Luanda	LAD	1913	True	British Airways
+lond	London	Buenos Aires Ministro Pistarini	EZE	1840	True	British Airways
+lond	London	Buenos Aires Ministro Pistarini	EZE	522	False	Alitalia
+lond	London	Salta	SLA	593	False	Air Europa
+lond	London	Buenos Aires Arpt. Jorge Newbery	AEP	754	False	TAM Linhas Aéreas
+lond	London	Linz	LNZ	59	True	Ryanair
+lond	London	Salzburg	SZG	93	True	Ryanair, British Airways, easyJet
+lond	London	Vienna	VIE	106	True	easyJet, British Airways, Austrian Airlines
+lond	London	Vienna	VIE	70	False	Air Berlin, British Airways, Austrian Airlines
+lond	London	Salzburg	SZG	86	False	germanwings, British Airways, easyJet
+lond	London	Klagenfurt	KLU	156	False	germanwings, Ryanair
+lond	London	Graz	GRZ	203	False	Air Berlin, Lufthansa, Austrian Airlines
+lond	London	Innsbruck	INN	342	False	Air Berlin, British Airways, easyJet
+lond	London	Melbourne Tullamarine	MEL	549	False	China Southern, Virgin Australia, Qatar Airways, Etihad Airways
+lond	London	Sydney Kingsford Smith	SYD	557	False	China Southern, Virgin Australia, British Airways, Etihad Airways
+lond	London	Brisbane	BNE	578	False	Malaysia Airlines, Virgin Australia, Etihad Airways, Emirates
+lond	London	Perth	PER	606	False	Cathay Pacific, Virgin Australia, Qatar Airways, Emirates
+lond	London	Hobart	HBA	620	False	Royal Brunei , Virgin Atlantic, Qantas
+lond	London	Darwin	DRW	672	False	Emirates, Qantas, Singapore Airlines
+lond	London	Melbourne Avalon	AVV	706	False	Qantas
+lond	London	Cairns	CNS	718	False	Qantas, Cathay Pacific, Virgin Atlantic, Air New Zealand
+lond	London	Gold Coast	OOL	722	False	Qantas, Virgin Atlantic, Air New Zealand
+lond	London	Proserpine	PPP	763	False	Singapore Airlines
+lond	London	Oranjestad	AUA	593	True	Thomson Flights
+lond	London	Baku Heydar Aliyev International	GYD	1505	True	British Airways, AZAL
+lond	London	Baku Heydar Aliyev International	GYD	180	False	Pegasus Airlines, AZAL
+lond	London	Sarajevo International	SJJ	151	False	Turkish Airlines, Lufthansa, Croatia Airlines, germanwings
+lond	London	Brussels International	BRU	63	True	Brussels Airlines, British Airways
+lond	London	Sofia	SOF	61	True	Wizz Air, British Airways, easyJet, Wizz Air Ukraine
+lond	London	Bourgas	BOJ	91	True	Wizz Air, flythomascook, Thomson Flights, Monarch
+lond	London	Varna	VAR	161	False	Bulgaria Air, Wizz Air, Wizz Air Ukraine
+lond	London	Rio De Janeiro Internacional	GIG	554	True	TAM Linhas Aéreas, British Airways
+lond	London	Sao Paulo Guarulhos	GRU	729	True	TAM Linhas Aéreas, British Airways
+lond	London	Rio De Janeiro Internacional	GIG	457	False	Alitalia, British Airways
+lond	London	Sao Paulo Guarulhos	GRU	544	False	Alitalia, British Airways
+lond	London	Sao Paulo Viracopos	VCP	560	False	TAM Linhas Aéreas, TAP
+lond	London	Sao Paulo Congonhas	CGH	567	False	TAM Linhas Aéreas
+lond	London	Florianopolis	FLN	584	False	TAM Linhas Aéreas
+lond	London	Joao Pessoa	JPA	619	False	TAM Linhas Aéreas
+lond	London	Imperatriz	IMP	645	False	TAM Linhas Aéreas
+lond	London	Rio De Janeiro Santos Dumont	SDU	682	False	TAP, TAM Linhas Aéreas
+lond	London	Salvador	SSA	1238	False	American Airlines, TAM Linhas Aéreas, TAP, SATA
+lond	London	Toronto Pearson International	YYZ	290	True	Air Transat, British Airways, Air Canada
+lond	London	Vancouver International	YVR	310	True	Air Transat, British Airways, Virgin Atlantic, Air Canada
+lond	London	Halifax International	YHZ	895	True	Air Canada, Air Transat
+lond	London	Calgary	YYC	973	True	Air Canada, British Airways, Air Transat
+lond	London	Edmonton International	YEG	1026	True	Air Canada, Air Transat
+lond	London	Halifax International	YHZ	420	False	Icelandair, Air Transat
+lond	London	Calgary	YYC	495	False	Swiss, British Airways, Air Transat
+lond	London	Toronto Island	YTZ	852	False	Air Canada
+lond	London	Kitchener / Waterloo	YKF	979	False	American Airlines
+lond	London	Winnipeg	YWG	1064	False	Air France, KLM, Air Canada, United
+lond	London	Victoria International	YYJ	1103	False	Air Canada, United, Delta
+lond	London	Basel Mulhouse Freiburg	BSL	39	True	easyJet, British Airways, Swiss
+lond	London	Zurich	ZRH	49	True	easyJet, British Airways, Swiss, edelweiss air
+lond	London	Geneva	GVA	51	True	easyJet, British Airways, Swiss
+lond	London	Bern	BRN	103	True	SkyWork
+lond	London	Beijing Capital	PEK	448	True	Air China, British Airways
+lond	London	Guangzhou	CAN	484	True	China Southern
+lond	London	Shanghai Pu Dong	PVG	1283	True	Virgin Atlantic, British Airways, China Eastern
+lond	London	Beijing Capital	PEK	344	False	Turkish Airlines, British Airways
+lond	London	Shanghai Pu Dong	PVG	377	False	China Southern, British Airways, China Eastern
+lond	London	Shanghai Hongqiao	SHA	377	False	China Southern, Cathay Pacific, Asiana Airlines, EVA Air
+lond	London	Changsha	CSX	393	False	China Southern, Cathay Pacific, Asiana Airlines, China Eastern
+lond	London	Xi An Xianyang	XIY	398	False	China Southern, Cathay Pacific, Finnair, Asiana Airlines
+lond	London	Chengdu	CTU	400	False	China Southern, British Airways
+lond	London	Wuhan	WUH	401	False	China Southern, Cathay Pacific, KLM, Air France
+lond	London	Harbin	HRB	402	False	China Southern, Asiana Airlines, China Eastern, EVA Air
+lond	London	Yiwu	YIW	402	False	China Southern
+lond	London	Kunming	KMG	404	False	China Southern, Cathay Pacific, Malaysia Airlines, China Eastern
+lond	London	Hangzhou	HGH	416	False	China Southern, Ethiopian Airlines, Cathay Pacific, KLM
+lond	London	Guangzhou	CAN	442	False	Vietnam Airlines
+lond	London	Nanchang	KHN	463	False	China Southern, Asiana Airlines, China Eastern
+lond	London	Chongqing	CKG	468	False	China Southern, Qatar Airways, Cathay Pacific, Finnair
+lond	London	Shenzhen	SZX	544	False	British Airways, Asiana Airlines, China Eastern
+lond	London	Shenyang	SHE	844	False	Lufthansa, China Southern, China Eastern
+lond	London	Bogota	BOG	791	False	Air Europa, Lufthansa, Iberia, KLM
+lond	London	San Jose Juan Santamaria	SJO	892	False	American Airlines, Iberia, Air Canada, Air France
+lond	London	Havana	HAV	434	False	Air Europa, Virgin Atlantic
+lond	London	Sao Vicente	VXE	590	False	TAP
+lond	London	Paphos	PFO	85	True	Monarch, flythomascook, British Airways, Thomson Flights
+lond	London	Larnaca	LCA	138	True	easyJet, flythomascook, British Airways, Thomson Flights
+lond	London	Ercan	ECN	132	False	Turkish Airlines, Pegasus Airlines
+lond	London	Brno-Turany	BRQ	42	True	Ryanair, Wizz Air, Wizz Air Ukraine
+lond	London	Prague	PRG	61	True	Wizz Air, British Airways, easyJet, Wizz Air Ukraine
+lond	London	Ostrava	OSR	276	False	Air Berlin, Ryanair
+lond	London	Dusseldorf Weeze	NRN	17	True	Ryanair
+lond	London	Bremen	BRE	17	True	Ryanair
+lond	London	Frankfurt Hahn	HHN	21	True	Ryanair
+lond	London	Karlsruhe / Baden-Baden	FKB	30	True	Ryanair
+lond	London	Memmingen Allgäu	FMM	30	True	Ryanair
+lond	London	Nuremberg	NUE	30	True	Ryanair, KLM, Air France
+lond	London	Dortmund	DTM	34	True	easyJet
+lond	London	Dusseldorf International	DUS	36	True	easyJet, British Airways, Lufthansa, Air Berlin
+lond	London	Cologne	CGN	43	True	germanwings, easyJet
+lond	London	Hannover	HAJ	44	True	germanwings, British Airways
+lond	London	Leipzig	LEJ	56	True	Ryanair
+lond	London	Berlin Schoenefeld	SXF	58	True	easyJet, Ryanair
+lond	London	Hamburg International	HAM	67	True	easyJet, British Airways, Lufthansa
+lond	London	Munich	MUC	67	True	easyJet, British Airways, Lufthansa, Monarch
+lond	London	Frankfurt am Main	FRA	68	True	Lufthansa, British Airways
+lond	London	Stuttgart	STR	99	True	British Airways, germanwings
+lond	London	Berlin Tegel	TXL	100	True	British Airways, Lufthansa
+lond	London	Dresden	DRS	131	True	Air France, KLM
+lond	London	Berlin Tegel	TXL	73	False	germanwings, Lufthansa
+lond	London	Dresden	DRS	79	False	germanwings, KLM
+lond	London	Billund	BLL	17	True	Ryanair, British Airways
+lond	London	Aarhus	AAR	17	True	Ryanair
+lond	London	Copenhagen	CPH	40	True	Norwegian, British Airways, SAS, easyJet
+lond	London	Aalborg	AAL	105	False	Norwegian
+lond	London	Punta Cana	PUJ	619	False	Air Berlin, Thomson Flights
+lond	London	Algiers	ALG	316	False	Iberia, British Airways, Air Algerie
+lond	London	Quito	UIO	905	False	Air Europa, Iberia, KLM, United
+lond	London	Tallinn	TLL	82	True	Ryanair, easyJet
+lond	London	Hurghada	HRG	150	True	easyJet, flythomascook, Thomson Flights
+lond	London	Cairo	CAI	292	True	EgyptAir, British Airways
+lond	London	Cairo	CAI	255	False	Alitalia, British Airways
+lond	London	Luxor	LXR	346	False	EgyptAir, Thomson Flights, Monarch, easyJet
+lond	London	Santander	SDR	48	True	Ryanair
+lond	London	Gran Canaria Las Palmas	LPA	51	True	Norwegian, flythomascook, Thomson Flights, Monarch
+lond	London	Madrid	MAD	58	True	easyJet, British Airways, Iberia, Ryanair
+lond	London	Reus	REU	59	True	Ryanair, flythomascook, Thomson Flights
+lond	London	Fuerteventura	FUE	59	True	Ryanair, flythomascook, Thomson Flights, Monarch
+lond	London	Seville	SVQ	59	True	Ryanair, easyJet
+lond	London	Zaragoza	ZAZ	59	True	Ryanair
+lond	London	Palma - Majorca	PMI	60	True	Vueling Airlines, flythomascook, British Airways, Thomson Flights
+lond	London	Asturias	OVD	66	True	easyJet
+lond	London	Bilbao	BIO	69	True	easyJet, Iberia, Vueling Airlines
+lond	London	Gerona	GRO	71	True	Ryanair, Thomson Flights
+lond	London	Malaga	AGP	75	True	Thomson Flights, British Airways, Monarch, Iberia
+lond	London	Barcelona	BCN	81	True	Monarch, British Airways, Norwegian, Vueling Airlines
+lond	London	Murcia	MJV	81	True	easyJet, Ryanair
+lond	London	Santiago de Compostela	SCQ	83	True	Ryanair, easyJet
+lond	London	Tenerife South	TFS	84	True	Monarch, flythomascook, British Airways, Thomson Flights
+lond	London	Almeria	LEI	85	True	easyJet, flythomascook, Ryanair
+lond	London	Alicante	ALC	87	True	easyJet, flythomascook, British Airways, Thomson Flights
+lond	London	Valencia	VLC	98	True	Ryanair, easyJet
+lond	London	Menorca	MAH	109	True	Thomson Flights, flythomascook, British Airways, Monarch
+lond	London	Lanzarote	ACE	110	True	Monarch, flythomascook, British Airways, Thomson Flights
+lond	London	Ibiza	IBZ	110	True	Monarch, flythomascook, British Airways, Thomson Flights
+lond	London	Jerez	XRY	110	True	Ryanair, Thomson Flights
+lond	London	La Coruna	LCG	119	True	Vueling Airlines, Iberia
+lond	London	La Palma	SPC	286	True	Thomson Flights
+lond	London	Ibiza	IBZ	110	False	germanwings, flythomascook, British Airways, Thomson Flights
+lond	London	Pamplona	PNA	132	False	Vueling Airlines, Iberia
+lond	London	San Sebastian Fuenteraba	EAS	133	False	Vueling Airlines, Iberia
+lond	London	Valladolid	VLL	149	False	Vueling Airlines, Iberia
+lond	London	Vigo	VGO	174	False	Air Europa, Iberia, Vueling Airlines, KLM
+lond	London	Granada	GRX	181	False	Vueling Airlines, British Airways
+lond	London	Tenerife North	TFN	183	False	Air Europa, Iberia, Vueling Airlines
+lond	London	La Palma	SPC	265	False	Iberia
+lond	London	Logrono	RJL	476	False	Iberia
+lond	London	Tampere	TMP	56	True	Ryanair
+lond	London	Helsinki Vantaa	HEL	97	True	Norwegian, British Airways, Finnair
+lond	London	Helsinki Vantaa	HEL	64	False	airBaltic, British Airways, Finnair
+lond	London	Vaasa	VAA	168	False	SAS, Finnair
+lond	London	Rovaniemi	RVN	184	False	British Airways, Finnair
+lond	London	Limoges	LIG	21	True	Ryanair
+lond	London	Dinard	DNR	25	True	Ryanair
+lond	London	Rodez	RDZ	30	True	Ryanair
+lond	London	Poitiers	PIS	30	True	Ryanair
+lond	London	Tours	TUF	38	True	Ryanair
+lond	London	La Rochelle	LRH	40	True	Ryanair, easyJet
+lond	London	Carcassonne	CCF	44	True	Ryanair
+lond	London	Biarritz	BIQ	47	True	Ryanair, easyJet
+lond	London	Toulon-Hyères	TLN	47	True	Ryanair, KLM, Air France
+lond	London	Marseille	MRS	50	True	Ryanair, British Airways, easyJet
+lond	London	Paris Charles de Gaulle	CDG	54	True	easyJet, British Airways, KLM, Air France
+lond	London	Lyon	LYS	55	True	easyJet, British Airways
+lond	London	Perpignan	PGF	56	True	Ryanair
+lond	London	Bergerac	EGC	61	True	Ryanair
+lond	London	Paris Orly	ORY	66	True	British Airways, KLM, Air France
+lond	London	Nimes	FNI	75	True	Ryanair
+lond	London	Bordeaux	BOD	78	True	easyJet, British Airways
+lond	London	Nice	NCE	81	True	easyJet, British Airways, Norwegian
+lond	London	Toulouse	TLS	90	True	easyJet, British Airways
+lond	London	Deauville St. Gatien	DOL	121	True	Air France, KLM
+lond	London	Montpellier	MPL	140	True	easyJet
+lond	London	Avignon	AVN	168	True	Air France, KLM
+lond	London	Brest	BES	175	True	Air France, KLM
+lond	London	Nantes	NTE	218	True	Air France, KLM, easyJet
+lond	London	Brive Vallée de la Dordogne	BVE	225	True	Air France, KLM
+lond	London	Strasbourg	SXB	177	False	Air France, Ryanair
+lond	London	St Etienne	EBU	182	False	Pegasus Airlines
+lond	London	Pau	PUF	191	False	Air France, KLM
+lond	London	Ajaccio	AJA	250	False	Norwegian, easyJet
+lond	London	Figari Sud Corse	FSC	279	False	SkyWork, Monarch
+lond	London	Rennes	RNS	367	False	Air Berlin, Vueling Airlines, KLM, Air France
+lond	London	Quimper	UIP	665	False	Air France, British Airways
+lond	London	St. George	GND	422	False	Caribbean Airlines, British Airways, Virgin Atlantic, Air Canada
+lond	London	Tbilisi	TBS	178	False	Pegasus Airlines, Lufthansa, Qatar Airways, KLM
+lond	London	Guernsey	GCI	94	True	Aurigny, Flybe
+lond	London	Accra	ACC	1200	True	Virgin Atlantic, British Airways
+lond	London	Accra	ACC	297	False	Alitalia, British Airways
+lond	London	Gibraltar	GIB	105	True	easyJet, British Airways, Monarch
+lond	London	Banjul	BJL	318	False	Vueling Airlines, flythomascook
+lond	London	Thessaloniki	SKG	69	True	Ryanair, British Airways, Thomson Flights, easyJet
+lond	London	Crete Chania	CHQ	125	True	Thomson Flights, Monarch, easyJet, Ryanair
+lond	London	Corfu	CFU	125	True	Thomson Flights, flythomascook, Monarch, MeridianFly
+lond	London	Crete Heraklion	HER	125	True	Thomson Flights, flythomascook, Monarch, easyJet
+lond	London	Zante (Zakynthos)	ZTH	153	True	easyJet, flythomascook, Thomson Flights, Monarch
+lond	London	Athens International	ATH	197	True	British Airways, easyJet, Aegean Airlines
+lond	London	Skiathos Island National	JSI	215	True	Thomson Flights, flythomascook, Monarch
+lond	London	Athens International	ATH	163	False	LOT, easyJet, Aegean Airlines
+lond	London	Kos	KGS	228	False	Aegean Airlines, flythomascook, Thomson Flights, Monarch
+lond	London	Mytilene	MJT	231	False	Aegean Airlines, flythomascook
+lond	London	Santorini (Thira)	JTR	250	False	Aegean Airlines, flythomascook, Thomson Flights, MeridianFly
+lond	London	Ioannina	IOA	331	False	Aegean Airlines
+lond	London	Argostoli, Kefallinia	EFL	385	False	Aegean Airlines, flythomascook, Thomson Flights, Monarch
+lond	London	Volos	VOL	521	False	Austrian Airlines, Monarch
+lond	London	Araxos	GPA	660	False	Air France, Air Berlin, Austrian Airlines
+lond	London	Kalamata International	KLX	1004	False	British Airways, flythomascook, easyJet
+lond	London	Hong Kong International	HKG	568	True	Cathay Pacific, British Airways, Virgin Atlantic
+lond	London	Hong Kong International	HKG	342	False	Jet Airways, British Airways, Virgin Atlantic
+lond	London	Zadar	ZAD	59	True	Ryanair
+lond	London	Zagreb	ZAG	95	True	easyJet, British Airways, Croatia Airlines
+lond	London	Dubrovnik	DBV	135	True	easyJet, British Airways, Thomson Flights, Monarch
+lond	London	Split	SPU	196	True	easyJet, Croatia Airlines, Norwegian, Wizz Air
+lond	London	Rijeka	RJK	126	False	SkyWork, Croatia Airlines, Ryanair
+lond	London	Split	SPU	157	False	germanwings, Croatia Airlines, Norwegian, Wizz Air
+lond	London	Pula	PUY	263	False	Air Berlin, Thomson Flights, Ryanair
+lond	London	Budapest	BUD	45	True	Ryanair, British Airways, easyJet, Wizz Air
+lond	London	Debrecen	DEB	61	True	Wizz Air, Wizz Air Ukraine
+lond	London	Balaton	SOB	208	False	Air Berlin
+lond	London	Bali (Denpasar)	DPS	509	False	Jet Airways, Virgin Australia, Qatar Airways, Cathay Pacific
+lond	London	Cork	ORK	19	True	Ryanair, Aer Lingus
+lond	London	Kerry	KIR	21	True	Ryanair
+lond	London	Knock	NOC	25	True	Ryanair, Aer Lingus
+lond	London	Dublin	DUB	26	True	Ryanair, British Airways, KLM, Air France
+lond	London	Shannon	SNN	35	True	Ryanair, Aer Lingus
+lond	London	Tel Aviv	TLV	148	True	easyJet, British Airways, EL AL Israel Airlines
+lond	London	Mumbai	BOM	294	True	Air India, British Airways, Virgin Atlantic, Jet Airways
+lond	London	Delhi	DEL	367	True	Jet Airways, British Airways, Virgin Atlantic, Air India
+lond	London	Chennai	MAA	1467	True	British Airways
+lond	London	Hyderabad	HYD	1475	True	British Airways
+lond	London	Bangalore	BLR	1475	True	British Airways
+lond	London	Bangalore	BLR	294	False	Air India
+lond	London	Ahmedabad	AMD	294	False	Air India, Virgin Australia, Qatar Airways, Etihad Airways
+lond	London	Hyderabad	HYD	325	False	Air India
+lond	London	Rajkot	RAJ	386	False	Jet Airways, Air India
+lond	London	Bagdogra	IXB	466	False	Jet Airways, Air India
+lond	London	Amritsar	ATQ	706	False	Qatar Airways, Jet Airways, Air India, Royal Jordanian
+lond	London	Kochi	COK	950	False	Saudia, SriLankan Airlines, Qatar Airways, Etihad Airways
+lond	London	Sulaymaniyah International	ISU	334	False	Royal Jordanian, Qatar Airways, Turkish Airlines
+lond	London	Erbil	EBL	409	False	Turkish Airlines, Lufthansa, Qatar Airways, Etihad Airways
+lond	London	Baghdad International	BGW	686	False	Qatar Airways, Etihad Airways, Emirates, Turkish Airlines
+lond	London	Imam Khomeini	IKA	224	False	Pegasus Airlines, IranAir
+lond	London	Reykjavik Keflavik	KEF	79	True	WOW air, easyJet, Icelandair
+lond	London	Milan Bergamo	BGY	27	True	Ryanair
+lond	London	Parma	PMF	30	True	Ryanair
+lond	London	Turin	TRN	30	True	Ryanair, British Airways, easyJet
+lond	London	Bologna International	BLQ	38	True	Ryanair, British Airways, easyJet
+lond	London	Venice Treviso	TSF	38	True	Ryanair
+lond	London	Ancona	AOI	38	True	Ryanair
+lond	London	Trieste	TRS	38	True	Ryanair
+lond	London	Perugia Santegidio	PEG	39	True	Ryanair
+lond	London	Alghero Sardinia	AHO	47	True	Ryanair, Thomson Flights
+lond	London	Genoa	GOA	47	True	Ryanair, British Airways
+lond	London	Pisa	PSA	47	True	Ryanair, British Airways, Thomson Flights, easyJet
+lond	London	Pescara	PSR	47	True	Ryanair
+lond	London	Venice Marco Polo	VCE	48	True	Monarch, British Airways, Thomson Flights, easyJet
+lond	London	Lamezia Terme	SUF	49	True	Ryanair
+lond	London	Palermo	PMO	49	True	Ryanair, easyJet
+lond	London	Milan Malpensa	MXP	55	True	easyJet, British Airways
+lond	London	Rome Ciampino	CIA	56	True	Ryanair
+lond	London	Milan Linate	LIN	67	True	easyJet, British Airways, Alitalia
+lond	London	Rome Fiumicino	FCO	85	True	British Airways, Monarch, Norwegian, Alitalia
+lond	London	Naples International	NAP	94	True	flythomascook, British Airways, Thomson Flights, easyJet
+lond	London	Cagliari	CAG	100	True	easyJet, Monarch
+lond	London	Olbia	OLB	127	True	easyJet, British Airways, Monarch
+lond	London	Verona International	VRN	128	True	easyJet, British Airways, Monarch
+lond	London	Florence	FLR	153	True	Vueling Airlines, KLM, Air France
+lond	London	Catania Fontanarossa	CTA	215	True	British Airways, Thomson Flights, easyJet
+lond	London	Florence	FLR	123	False	Air Berlin, KLM, Air France
+lond	London	Bari	BRI	135	False	Vueling Airlines, British Airways, easyJet, Ryanair
+lond	London	Catania Fontanarossa	CTA	149	False	Air Malta, Thomson Flights, easyJet
+lond	London	Brindisi	BDS	215	False	Air Berlin, Ryanair
+lond	London	Montego Bay	MBJ	1013	True	Virgin Atlantic, Thomson Flights
+lond	London	Kingston Norman Manley	KIN	1021	True	British Airways
+lond	London	Kingston Norman Manley	KIN	494	False	Caribbean Airlines
+lond	London	Montego Bay	MBJ	553	False	Caribbean Airlines, Thomson Flights
+lond	London	Amman Queen Alia	AMM	366	True	Royal Jordanian, British Airways, easyJet
+lond	London	Amman Queen Alia	AMM	357	False	Turkish Airlines, British Airways, easyJet
+lond	London	Tokyo Narita	NRT	1045	True	Virgin Atlantic, British Airways, ANA
+lond	London	Osaka Kansai International	KIX	397	False	Alitalia, Virgin Australia, Lufthansa, Qatar Airways
+lond	London	Tokyo Narita	NRT	403	False	Alitalia, British Airways, ANA
+lond	London	Tokyo Haneda	HND	472	False	Air China, British Airways
+lond	London	Fukuoka	FUK	793	False	Asiana Airlines, Virgin Australia, Cathay Pacific, China Southern
+lond	London	Osaka Itami	ITM	855	False	Air France, Virgin Atlantic, ANA
+lond	London	Kobe	UKB	1041	False	Virgin Atlantic, ANA
+lond	London	Nairobi Jomo Kenyatta	NBO	599	True	Kenya Airways, British Airways
+lond	London	Nairobi Jomo Kenyatta	NBO	380	False	Brussels Airlines, British Airways
+lond	London	Bishkek	FRU	300	False	Ukraine International, Pegasus Airlines, Turkish Airlines, Aeroflot
+lond	London	Phnom Penh	PNH	408	False	Jet Airways, Qatar Airways, China Southern, Malaysia Airlines
+lond	London	Pristina	PRN	113	False	Pegasus Airlines
+lond	London	Seoul Incheon Int'l	ICN	650	True	Korean Air, British Airways, Asiana Airlines
+lond	London	Seoul Incheon Int'l	ICN	445	False	Malaysia Airlines, British Airways, Asiana Airlines
+lond	London	Seoul Gimpo	GMP	486	False	Air China, China Eastern, EVA Air
+lond	London	Jeju	CJU	556	False	Cathay Pacific, Korean Air, Asiana Airlines, China Eastern
+lond	London	Kuwait	KWI	1022	True	British Airways, Kuwait Airways
+lond	London	Beirut	BEY	361	True	MEA, British Airways
+lond	London	Beirut	BEY	214	False	Pegasus Airlines, British Airways
+lond	London	St Lucia Hewanorra	UVF	1226	True	Virgin Atlantic, British Airways
+lond	London	Colombo Bandaranayake	CMB	380	True	SriLankan Airlines
+lond	London	Colombo Bandaranayake	CMB	344	False	Jet Airways
+lond	London	Vilnius	VNO	48	True	Ryanair, Wizz Air, Wizz Air Ukraine
+lond	London	Kaunas	KUN	59	True	Ryanair
+lond	London	Luxembourg	LUX	60	True	easyJet, British Airways, KLM, Air France
+lond	London	Riga International	RIX	85	True	Ryanair, airBaltic, Wizz Air, Wizz Air Ukraine
+lond	London	Tripoli	TIP	259	False	Air Malta, British Airways, Libyan Arab Airlines
+lond	London	Marrakech Menara	RAK	102	True	Ryanair, British Airways, Thomson Flights, easyJet
+lond	London	Casablanca Mohamed V.	CMN	163	True	Royal Air Maroc, British Airways
+lond	London	Casablanca Mohamed V.	CMN	119	False	Iberia, British Airways
+lond	London	Tangier Boukhalef	TNG	136	False	Iberia, Royal Air Maroc
+lond	London	Agadir	AGA	143	False	Royal Air Maroc, British Airways, Thomson Flights, easyJet
+lond	London	Fes-Saïss	FEZ	148	False	Royal Air Maroc, Ryanair
+lond	London	Rabat	RBA	242	False	Air Berlin, Iberia, KLM, Air France
+lond	London	Chisinau	KIV	162	False	airBaltic, Air Moldova
+lond	London	Tivat	TIV	281	False	Air Berlin, Montenegro Airlines
+lond	London	Antananarivo	TNR	550	False	Ethiopian Airlines, South African Airways, KLM, Air France
+lond	London	Ohrid	OHD	452	False	Aegean Airlines, JAT Airways
+lond	London	Yangon	RGN	821	False	Asiana Airlines, Qatar Airways, China Southern, Malaysia Airlines
+lond	London	Ulaanbaatar	ULN	652	False	Air China, Turkish Airlines, Aeroflot
+lond	London	Luqa Malta International	MLA	61	True	Ryanair, flythomascook, Thomson Flights, Monarch
+lond	London	Male	MLE	1293	True	British Airways, Thomson Flights
+lond	London	Male	MLE	411	False	SriLankan Airlines, Thomson Flights
+lond	London	Blantyre	BLZ	1052	False	South African Airways, Ethiopian Airlines
+lond	London	Mexico City Juarez International	MEX	1101	True	British Airways
+lond	London	Cancun	CUN	1012	False	United, British Airways, Thomson Flights, Virgin Atlantic
+lond	London	Mexico City Juarez International	MEX	1021	False	Air France
+lond	London	Cozumel	CZM	1105	False	Air Canada, KLM, United, US Airways
+lond	London	San Jose Cabo	SJD	1151	False	Air Canada, KLM, United, US Airways
+lond	London	Kuala Lumpur International	KUL	588	True	Malaysia Airlines
+lond	London	Kuala Lumpur International	KUL	412	False	China Southern
+lond	London	Kota Bharu	KBR	550	False	Malaysia Airlines
+lond	London	Kuala Lumpur Sultan Abdul Azziz Shah	SZB	3073	False	Singapore Airlines
+lond	London	Lagos	LOS	465	True	Arik Air, British Airways, Virgin Atlantic
+lond	London	Lagos	LOS	330	False	Alitalia, British Airways, Virgin Atlantic
+lond	London	Warri	QRW	537	False	Arik Air
+lond	London	Port Harcourt	PHC	714	False	Lufthansa, KLM, Air France
+lond	London	Eindhoven	EIN	21	True	Ryanair
+lond	London	Amsterdam	AMS	46	True	easyJet, British Airways, KLM, Air France
+lond	London	Rotterdam	RTM	63	True	British Airways, KLM, Air France
+lond	London	Oslo Rygge	RYG	19	True	Ryanair
+lond	London	Oslo Torp	TRF	21	True	Ryanair, Norwegian
+lond	London	Bergen	BGO	37	True	Norwegian, British Airways, easyJet
+lond	London	Aalesund Vigra	AES	47	True	Norwegian
+lond	London	Oslo Gardermoen	OSL	47	True	Norwegian, British Airways, SAS
+lond	London	Stavanger	SVG	66	True	British Airways, SAS, Norwegian
+lond	London	Trondheim	TRD	70	True	Norwegian
+lond	London	Kristiansand Kjevik	KRS	89	False	Norwegian, SAS, KLM
+lond	London	Haugesund	HAU	97	False	Norwegian, Ryanair
+lond	London	Bardufoss	BDU	115	False	Norwegian
+lond	London	Evenes	EVE	124	False	Norwegian, SAS
+lond	London	Tromso	TOS	169	False	SAS, Norwegian
+lond	London	Kathmandu	KTM	327	False	Air India, Qatar Airways, Etihad Airways, Cathay Pacific
+lond	London	Auckland International	AKL	614	False	China Southern, Emirates, Cathay Pacific, Virgin Atlantic
+lond	London	Christchurch	CHC	724	False	Singapore Airlines, Emirates, Virgin Atlantic, Qantas
+lond	London	Muscat	MCT	942	False	Ethiopian Airlines, Oman Air
+lond	London	Panama City Tocumen International	PTY	812	False	Iberia, KLM, Air France, United
+lond	London	Lima	LIM	587	False	Air Europa, Iberia, KLM, Air Canada
+lond	London	Arequipa	AQP	869	False	LAN Airlines
+lond	London	Bora Bora	BOB	2239	False	Iberia
+lond	London	Manila Ninoy Aquino	MNL	411	False	China Southern, Ethiopian Airlines, Qatar Airways, Etihad Airways
+lond	London	Karachi	KHI	266	True	PIA
+lond	London	Lahore	LHE	338	False	PIA
+lond	London	Sialkot	SKT	385	False	PIA
+lond	London	Islamabad	ISB	393	False	PIA
+lond	London	Peshawar	PEW	394	False	Saudia, Virgin Australia, Qatar Airways, Etihad Airways
+lond	London	Szczecin Goleniow	SZZ	23	True	Ryanair
+lond	London	Warsaw	WAW	28	True	Ryanair, British Airways, LOT, Wizz Air
+lond	London	Poznan	POZ	29	True	Ryanair, Wizz Air, Wizz Air Ukraine
+lond	London	Lodz	LCJ	29	True	Ryanair, Wizz Air, Wizz Air Ukraine
+lond	London	Wroclaw	WRO	29	True	Ryanair, Wizz Air, Wizz Air Ukraine
+lond	London	Bydgoszcz	BZG	30	True	Ryanair
+lond	London	Katowice	KTW	30	True	Ryanair, Wizz Air, Wizz Air Ukraine
+lond	London	Gdansk	GDN	31	True	Wizz Air, Wizz Air Ukraine, Ryanair
+lond	London	Lublin	LUZ	36	True	Ryanair
+lond	London	Krakow	KRK	38	True	Ryanair, easyJet
+lond	London	Rzeszow	RZE	55	True	Ryanair
+lond	London	Porto	OPO	59	True	Ryanair, TAP, easyJet
+lond	London	Faro	FAO	59	True	Ryanair, flythomascook, British Airways, Thomson Flights
+lond	London	Madeira	FNC	95	True	Monarch, flythomascook, Thomson Flights, TAP
+lond	London	Lisbon	LIS	115	True	easyJet, British Airways, TAP
+lond	London	Porto Santo	PXO	365	False	TAP, Thomson Flights
+lond	London	Doha	DOH	627	False	Lufthansa, Qatar Airways
+lond	London	Bucharest Otopeni	OTP	71	True	Wizz Air, British Airways, Wizz Air Ukraine
+lond	London	Cluj-Napoca	CLJ	81	True	Wizz Air, Wizz Air Ukraine
+lond	London	Tirgu Mures	TGM	91	True	Wizz Air, Wizz Air Ukraine
+lond	London	Suceava Salcea	SCV	186	False	TAROM
+lond	London	Sibiu	SBZ	284	False	Air Berlin, Lufthansa, Austrian Airlines
+lond	London	Iasi	IAS	325	False	Air Berlin
+lond	London	Timisoara	TSR	339	False	Air Berlin, Wizz Air, Wizz Air Ukraine
+lond	London	Belgrade Nikola Tesla	BEG	53	True	Wizz Air, Wizz Air Ukraine, JAT Airways
+lond	London	Moscow Domodedovo	DME	56	True	easyJet, British Airways
+lond	London	Moscow Sheremetyevo	SVO	179	True	Aeroflot
+lond	London	St Petersburg Pulkovo	LED	338	True	British Airways
+lond	London	Moscow Sheremetyevo	SVO	125	False	SAS
+lond	London	St Petersburg Pulkovo	LED	147	False	airBaltic
+lond	London	Krasnodar	KRR	166	False	Pegasus Airlines, Aeroflot, Austrian Airlines
+lond	London	Rostov-on-Don	ROV	190	False	Ukraine International, Turkish Airlines, Aeroflot, Austrian Airlines
+lond	London	Moscow Vnukovo	VKO	220	False	Turkish Airlines
+lond	London	Stavropol	STW	292	False	Aeroflot
+lond	London	Ekaterinburg	SVX	333	False	Ukraine International, Lufthansa, Finnair, Alitalia
+lond	London	Murmansk	MMK	597	False	Aeroflot
+lond	London	Samara	KUF	795	False	Lufthansa, Ukraine International, Aeroflot, Belavia
+lond	London	Jeddah	JED	366	True	Saudia, British Airways
+lond	London	Riyadh	RUH	370	True	Saudia, British Airways
+lond	London	Jeddah	JED	319	False	Royal Jordanian, British Airways
+lond	London	Abha	AHB	364	False	Saudia, EgyptAir
+lond	London	Stockholm Skavsta	NYO	22	True	Ryanair
+lond	London	Malmo Sturup	MMX	22	True	Ryanair
+lond	London	Stockholm Vasteras	VST	23	True	Ryanair
+lond	London	Gothenburg Save	GSE	23	True	Ryanair
+lond	London	Stockholm Arlanda	ARN	47	True	Norwegian, British Airways, SAS, Finnair
+lond	London	Gothenburg Landvetter	GOT	57	True	Norwegian, British Airways, SAS
+lond	London	Kalmar	KLR	220	False	SAS
+lond	London	Stockholm Bromma	BMA	711	False	British Airways, Brussels Airlines, Finnair
+lond	London	Singapore Changi	SIN	513	True	Singapore Airlines, Virgin Australia, British Airways
+lond	London	Singapore Changi	SIN	412	False	China Southern, Virgin Australia, British Airways
+lond	London	Ljubljana	LJU	84	True	easyJet, Wizz Air, Wizz Air Ukraine
+lond	London	Bratislava	BTS	32	True	Ryanair
+lond	London	Kosice	KSC	424	False	Swiss, Austrian Airlines
+lond	London	San Salvador	SAL	1220	False	United, Iberia, Delta
+lond	London	Bangkok Suvarnabhumi	BKK	485	True	EVA Air, British Airways, Thai Airways
+lond	London	Bangkok Suvarnabhumi	BKK	318	False	Jet Airways, British Airways, Thai Airways
+lond	London	Chiang Mai	CNX	399	False	Jet Airways, Cathay Pacific, Thai Airways, EVA Air
+lond	London	Koh Samui / Samui Island	USM	412	False	Jet Airways, Thai Airways, EVA Air
+lond	London	Phuket	HKT	412	False	Jet Airways, Thomson Flights
+lond	London	Krabi	KBV	579	False	Thai Airways
+lond	London	Tunis Carthage	TUN	119	True	British Airways, Tunisair
+lond	London	Dalaman	DLM	116	True	Monarch, flythomascook, Thomson Flights, easyJet
+lond	London	Antalya	AYT	123	True	easyJet, flythomascook, Thomson Flights, Monarch
+lond	London	Istanbul Sabiha	SAW	130	True	Pegasus Airlines, Turkish Airlines, easyJet
+lond	London	Istanbul Ataturk	IST	132	True	Turkish Airlines, British Airways
+lond	London	Bodrum	BJV	166	True	flythomascook, Thomson Flights, Monarch, Pegasus Airlines
+lond	London	Istanbul Ataturk	IST	115	False	Ukraine International, British Airways
+lond	London	Antalya	AYT	120	False	germanwings, flythomascook, Thomson Flights, Monarch
+lond	London	Kayseri	ASR	124	False	Turkish Airlines, Pegasus Airlines, Saudia
+lond	London	Bodrum	BJV	127	False	Turkish Airlines, Thomson Flights, Monarch, Pegasus Airlines
+lond	London	Izmir	ADB	129	False	germanwings, flythomascook, Thomson Flights, Pegasus Airlines
+lond	London	Adana	ADA	141	False	Turkish Airlines, Pegasus Airlines, Saudia
+lond	London	Ankara Esenboga	ESB	142	False	Turkish Airlines, Lufthansa, Qatar Airways, germanwings
+lond	London	Trabzon	TZX	159	False	Pegasus Airlines, Turkish Airlines
+lond	London	Elazig	EZS	160	False	Turkish Airlines, Pegasus Airlines
+lond	London	Gazipasa	GZP	160	False	Pegasus Airlines, SAS
+lond	London	Diyarbakir	DIY	197	False	Pegasus Airlines, Turkish Airlines
+lond	London	Port Of Spain	POS	269	True	Caribbean Airlines
+lond	London	Taipei Taiwan Taoyuan	TPE	458	False	British Airways, Cathay Pacific, China Southern, KLM
+lond	London	Taipei Sung Shan	TSA	967	False	Air France, China Eastern
+lond	London	Kilimanjaro	JRO	412	False	Ethiopian Airlines, Qatar Airways, Swiss, KLM
+lond	London	Zanzibar	ZNZ	434	False	Ethiopian Airlines, Kenya Airways, Oman Air
+lond	London	Dar Es Salaam	DAR	472	False	Emirates, Ethiopian Airlines, Qatar Airways, South African Airways
+lond	London	Kiev Zhulhany	IEV	91	True	Wizz Air, Wizz Air Ukraine
+lond	London	Kiev Borispol	KBP	100	True	British Airways, Ukraine International
+lond	London	Kharkov	HRK	114	False	Pegasus Airlines, Ukraine International, Aeroflot, Austrian Airlines
+lond	London	Simferopol	SIP	207	False	airBaltic, Ukraine International, Turkish Airlines, Aeroflot
+lond	London	Derry	LDY	28	True	Ryanair
+lond	London	Edinburgh	EDI	37	True	easyJet, British Airways, Virgin Atlantic, KLM
+lond	London	Glasgow International	GLA	43	True	easyJet, British Airways
+lond	London	Isle of Man	IOM	43	True	Flybe, British Airways, easyJet
+lond	London	Aberdeen	ABZ	44	True	easyJet, British Airways, Virgin Atlantic
+lond	London	Belfast International	BFS	46	True	easyJet
+lond	London	Belfast City	BHD	46	True	Aer Lingus, British Airways, Flybe
+lond	London	Jersey	JER	49	True	British Airways, Flybe, easyJet, Aurigny
+lond	London	Manchester	MAN	67	True	Virgin Atlantic, British Airways
+lond	London	Leeds Bradford	LBA	70	True	British Airways
+lond	London	Newcastle	NCL	70	True	British Airways, Flybe
+lond	London	Newquay	NQY	74	True	Flybe, easyJet
+lond	London	Inverness	INV	75	True	easyJet, British Airways, Flybe
+lond	London	Guernsey	GCI	120	True	Blue Islands
+lond	London	Dundee	DND	149	True	Air France, KLM
+lond	London	Alderney	ACI	81	False	Aurigny
+lond	London	Liverpool	LPL	97	False	Flybe
+lond	London	Guernsey	GCI	97	False	Susi Airlines
+lond	London	Stornoway	SYY	145	False	Flybe
+lond	London	Durham Tees Valley	MME	204	False	Flybe
+lond	London	Humberside	HUY	219	False	Flybe
+lond	London	Orlando Sanford	SFB	286	True	flythomascook, Thomson Flights, Monarch
+lond	London	Los Angeles International	LAX	469	True	Air New Zealand, British Airways, Iberia, Virgin Atlantic
+lond	London	Tampa International	TPA	488	True	Iberia, British Airways
+lond	London	Miami International	MIA	514	True	Iberia, British Airways, Virgin Atlantic
+lond	London	Houston George Bush Intercntl.	IAH	529	True	Iberia, British Airways, United
+lond	London	Orlando International	MCO	554	True	Iberia, British Airways, Virgin Atlantic
+lond	London	Boston Logan International	BOS	754	True	Air France, British Airways, Iberia, Virgin Atlantic
+lond	London	New York Newark	EWR	791	True	Virgin Atlantic, British Airways, United
+lond	London	Washington Dulles	IAD	839	True	Virgin Atlantic, British Airways, United
+lond	London	Chicago O'Hare International	ORD	891	True	Virgin Atlantic, British Airways, Iberia, United
+lond	London	Atlanta Hartsfield-Jackson ATL	ATL	969	True	KLM, British Airways, Delta
+lond	London	Detroit Wayne County	DTW	986	True	Air France, KLM, Delta
+lond	London	Charlotte Douglas	CLT	1038	True	US Airways
+lond	London	Las Vegas Mccarran	LAS	1050	True	Virgin Atlantic, British Airways
+lond	London	San Francisco International	SFO	1088	True	Virgin Atlantic, British Airways, United
+lond	London	Baltimore Balt / Wash	BWI	1129	True	British Airways
+lond	London	Dallas Fort Worth International	DFW	1254	True	British Airways
+lond	London	Seattle / Tacoma International	SEA	1306	True	Iberia, British Airways
+lond	London	Phoenix Sky Harbor	PHX	1412	True	British Airways
+lond	London	San Diego Lindberg Fld S.Diego	SAN	1472	True	British Airways
+lond	London	Boston Logan International	BOS	319	False	Aer Lingus, British Airways, Iberia, Virgin Atlantic
+lond	London	Miami International	MIA	428	False	Iberia, British Airways, Virgin Atlantic
+lond	London	New York John F Kennedy	JFK	439	False	Turkish Airlines, British Airways, Iberia, Virgin Atlantic
+lond	London	New York Newark	EWR	452	False	TAP, British Airways, United
+lond	London	Houston George Bush Intercntl.	IAH	465	False	Turkish Airlines, British Airways, United
+lond	London	Tampa International	TPA	487	False	Iberia, British Airways
+lond	London	Washington Dulles	IAD	490	False	Turkish Airlines, British Airways, United
+lond	London	Chicago O'Hare International	ORD	532	False	Turkish Airlines, British Airways, Iberia, United
+lond	London	Portland	PDX	546	False	Air New Zealand, KLM, Air Canada, Air France
+lond	London	Orlando International	MCO	547	False	Iberia, British Airways, Virgin Atlantic
+lond	London	San Francisco International	SFO	551	False	Air New Zealand, British Airways, United
+lond	London	Seattle / Tacoma International	SEA	574	False	Air New Zealand, British Airways
+lond	London	Washington Ronald Reagan	DCA	574	False	Aeroflot, Iberia, KLM, Air Canada
+lond	London	Charlotte Douglas	CLT	613	False	Icelandair
+lond	London	New York La Guardia	LGA	712	False	US Airways, KLM, Air Canada, Air France
+lond	London	New Orleans Louis Armstrong	MSY	728	False	Iberia, KLM, Air Canada, Air France
+lond	London	Baltimore Balt / Wash	BWI	731	False	US Airways
+lond	London	Atlanta Hartsfield-Jackson ATL	ATL	747	False	US Airways, British Airways, Delta
+lond	London	Las Vegas Mccarran	LAS	803	False	US Airways, British Airways
+lond	London	Fort Lauderdale International	FLL	812	False	US Airways, KLM, Air Canada, Air France
+lond	London	Phoenix Sky Harbor	PHX	827	False	US Airways
+lond	London	Indianapolis	IND	927	False	US Airways, KLM, Air Canada, Air France
+lond	London	Austin-Bergstrom	AUS	979	False	American Airlines, KLM, Air France, United
+lond	London	Chicago Midway	MDW	1008	False	Air France, KLM, Delta
+lond	London	Houston Hobby	HOU	1022	False	Delta, KLM
+lond	London	Nashville	BNA	1077	False	KLM, Air Canada, Air France, United
+lond	London	San Diego Carlsbad	CLD	1082	False	United
+lond	London	San Diego Lindberg Fld S.Diego	SAN	1082	False	United
+lond	London	Dallas Fort Worth International	DFW	1097	False	Air France
+lond	London	San Jose Municipal	SJC	1102	False	Air France, KLM, United, US Airways
+lond	London	Oakland Metropolitan Oak	OAK	1103	False	Delta, US Airways
+lond	London	Pittsburgh Int'l Apt.	PIT	1232	False	American Airlines, Virgin Atlantic, KLM, Air Canada
+lond	London	Honolulu International	HNL	1273	False	Air Canada, KLM, Air France, United
+lond	London	Kahului	OGG	1711	False	Air France, KLM, Air Canada, United
+lond	London	Montevideo	MVD	552	False	Air Europa, KLM, TAM Linhas Aéreas, Air France
+lond	London	Tashkent	TAS	218	False	airBaltic, Uzbekistan Airways
+lond	London	Maturin	MUN	846	False	Air Europa
+lond	London	Saint Thomas Cyril E King	STT	1352	False	United, US Airways, Delta
+lond	London	Ho Chi Minh City	SGN	399	False	China Southern, Vietnam Airlines
+lond	London	Hanoi	HAN	413	False	British Airways, Vietnam Airlines
+lond	London	Aden	ADE	416	False	Turkish Airlines, Etihad Airways, EgyptAir, Saudia
+lond	London	Johannesburg OR Tambo	JNB	895	True	South African Airways, British Airways, Iberia, Virgin Atlantic
+lond	London	Johannesburg OR Tambo	JNB	357	False	Ethiopian Airlines, British Airways, Iberia, Virgin Atlantic
+lond	London	Cape Town	CPT	928	False	KLM, British Airways, Iberia, Virgin Atlantic
+lond	London	Hoedspruit	HDS	1006	False	South African Airways
+lond	London	Lanseria	HLA	1339	False	British Airways
+lond	London	Lusaka	LUN	1389	True	British Airways
+lond	London	Lusaka	LUN	408	False	Ethiopian Airlines
+lond	London	Harare	HRE	840	False	KLM, Air Zimbabwe
