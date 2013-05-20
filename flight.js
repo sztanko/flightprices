@@ -1,4 +1,4 @@
-var center, cities, countries, data, draw, drawList, dur, height, lines, pr, svg, title, w, width;
+var center, cities, countries, data, dots, draw, drawList, dur, height, lines, pr, svg, title, w, width;
 
 width = 1350;
 
@@ -16,6 +16,8 @@ lines = svg.append("g").attr("class", "lines");
 
 cities = svg.append("g").attr("class", "cities");
 
+dots = svg.append("g").attr("class", "dots");
+
 center = svg.append("g").attr("class", "center");
 
 center.append("circle").attr("cx", width / 2).attr("cy", height / 2).attr("r", 6);
@@ -28,8 +30,28 @@ pr = {};
 
 w = {};
 
-d3.json("data/world-110m.json", function(error, w_f) {
+d3.json("data/ne/world.topo.json", function(error, w_f) {
+  var a, b, i, _i, _len, _ref, _ref2;
   w = w_f;
+  w.t = {};
+  w.tf = w_f.transform;
+  w.kx = w.tf.scale[0];
+  w.ky = w.tf.scale[1];
+  w.dx = w.tf.translate[0];
+  w.dy = w.tf.translate[1];
+  w.p = [];
+  _ref = w.arcs;
+  for (_i = 0, _len = _ref.length; _i < _len; _i++) {
+    a = _ref[_i];
+    b = [a[0]];
+    for (i = 1, _ref2 = a.length - 1; 1 <= _ref2 ? i <= _ref2 : i >= _ref2; 1 <= _ref2 ? i++ : i--) {
+      b.push([a[i][0] + b[i - 1][0], a[i][1] + b[i - 1][1]]);
+    }
+    b = _.map(b, function(d) {
+      return [d[0] * w.kx + w.dx, d[1] * w.ky + w.dy];
+    });
+    w.p = w.p.concat(b);
+  }
   return d3.tsv("data/data.tsv", function(error, dat) {
     data = d3.nest().key(function(d) {
       return d.SRC;
@@ -72,7 +94,7 @@ drawList = function(data) {
 };
 
 draw = function(city) {
-  var c, f, old_pr, p, sc, scr, titleF;
+  var c, d, f, old_pr, p, sc, scr, titleF;
   console.log(city);
   old_pr = pr;
   pr = d3.geo.azimuthalEquidistant().scale(650).translate([width / 2, height / 2]).rotate([-city.lng, -city.lat, 0]).clipAngle(180 - 1e-3).precision(.5);
@@ -105,5 +127,16 @@ draw = function(city) {
   }).style("fill", function(d) {
     return sc(d.ppk);
   }).style("opacity", .5).on("mouseover", titleF).style("display", "none").transition().delay(dur).duration(0).style("display", "block");
-  return c.exit().remove();
+  c.exit().remove();
+  d = dots.selectAll("circle").data(w.p).attr("r", "1").attr("transform", function(d) {
+    var t;
+    t = pr(d);
+    return "translate(" + t[0] + "," + t[1] + ")";
+  });
+  d.enter().append("circle").attr("r", "1").attr("transform", function(d) {
+    var t;
+    t = pr(d);
+    return "translate(" + t[0] + "," + t[1] + ")";
+  });
+  return d.exit().remove();
 };

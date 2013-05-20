@@ -2,7 +2,6 @@ width = 1350
 height = 580
 
 dur = 2000
-
 data = {}
 svg = d3.select("#map").append("svg")
     .attr("width", width)
@@ -10,14 +9,32 @@ svg = d3.select("#map").append("svg")
 countries = svg.append("g").attr("class","countries")
 lines = svg.append("g").attr("class","lines")
 cities = svg.append("g").attr("class","cities")
+dots = svg.append("g").attr("class","dots")
 center = svg.append("g").attr("class","center")
 center.append("circle").attr("cx",width/2).attr("cy",height/2).attr("r",6)
 center.append("text").text("")
 title = d3.select("#title")
 pr = {}
 w = {}
-d3.json("data/world-110m.json", (error, w_f) ->
+
+d3.json("data/ne/world.topo.json", (error, w_f) -> #world-110m.json
 	w = w_f
+	w.t = {}
+	w.tf = w_f.transform
+	w.kx = w.tf.scale[0]
+	w.ky = w.tf.scale[1]
+	w.dx = w.tf.translate[0]
+	w.dy = w.tf.translate[1]
+	w.p = []
+	for a in w.arcs
+		b=[a[0]]
+		for i in [ 1..a.length-1 ]
+			b.push( [ a[i][0] + b[i-1][0], a[i][1] + b[i-1][1] ])
+		#b = [a[0]].concat( [[ a[i][0] + a[0][0], a[i][1] + a[0][1]] for i in [1..a.length-1]][0])
+		#debugger
+		
+		b = _.map(b, (d) -> [d[0]*w.kx+w.dx, d[1]*w.ky + w.dy])
+		w.p = w.p.concat(b)
 	d3.tsv("data/data.tsv", (error, dat) ->
 		data = d3.nest().key((d) -> d.SRC ).sortKeys(d3.ascending).entries(dat)
 		_.each(data, (d)-> 
@@ -37,8 +54,7 @@ d3.json("data/world-110m.json", (error, w_f) ->
 			return true
 		)
 		drawList(data)
-		return true	
-	
+		return true
 	)
 )
 drawList = (data) ->
@@ -68,7 +84,9 @@ draw = (city) ->
 		.data(topojson.object(w, w.objects.countries).geometries)
 	p.transition().duration(dur).attr("d", d3.geo.path().projection(pr))
 	f = d3.format(",.2f")
+
 	titleF = (d) -> title.text(d.DST + " - "+f(d.ppk)+" - "+f(city.med_ppk)+" - "+f(d.ppk/city.med_ppk)+" - "+f(d.ppk/city.med_ppk*d.distance)+"km"+" - "+d.distance+"km")
+
 	p.enter()
 		.append("path")
 		.attr("d", d3.geo.path().projection(pr))
@@ -93,4 +111,12 @@ draw = (city) ->
 		
 	c.exit().remove()
 
+	d = dots.selectAll("circle")
+		.data(w.p)
+		.attr("r","1")
+		.attr("transform",(d) -> t = pr(d); "translate("+t[0]+","+t[1]+")")
+	d.enter().append("circle")
+		.attr("r","1")
+		.attr("transform",(d) -> t = pr(d); "translate("+t[0]+","+t[1]+")")
+	d.exit().remove()
 
